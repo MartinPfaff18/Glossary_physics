@@ -1,0 +1,8 @@
+\newglossaryentry{Tangental velocity}
+{
+    name=Tangental velocity,
+    description={Tangential velocity is the velocity in the tangential direction, tangential meaning "along the curve." In this case, it is velocity in the direction of rotation, as opposed to motion inwards (centripetal) or outwards (centrifugal). 
+
+It is equal to w * r because w is the number of radians per second traveled by the point. A radian is defined to be the arc-length of an angle divided by the radius. Multiplying by the radius gives arc-length per second: the speed of the point around the circle, or in other words, Vt.
+
+}
